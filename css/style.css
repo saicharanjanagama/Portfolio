@@ -717,7 +717,7 @@ footer{
     gap: 10px;
   }
   
-  .nav-action .btn {
+  .nav-actions a {
     font-size: 8px;
   }
 
