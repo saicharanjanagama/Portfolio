@@ -54,7 +54,7 @@
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 Portfolio - Sai Charan/<br>
 │── index.html<br>
