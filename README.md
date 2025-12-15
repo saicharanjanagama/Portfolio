@@ -56,15 +56,15 @@
 
 📂 Project Structure
 
-Portfolio - Sai Charan/
-│── index.html
-│── css/
-│    └── style.css
-│── js/
-│    ├── script.js
-     ├── contactForm.js
-│── images/
-│    └── (project thumbnails, profile image)
+Portfolio - Sai Charan/<br>
+│── index.html<br>
+│── css/<br>
+│    └── style.css<br>
+│── js/<br>
+│    ├── script.js<br>
+     ├── contactForm.js<br>
+│── images/<br>
+│    └── (project thumbnails, profile image)<br>
 │── README.md
 
 
