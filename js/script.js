@@ -128,6 +128,45 @@ const moreProjectsHTML = `
             <p class="meta">Menu • Booking • Responsive</p>
         </div>
     </article>
+
+
+    <article class="project card"
+        role="listitem"
+        tabindex="0"
+        data-title="🌦️ Weatherly"
+        data-meta="Map-Based Weather App | APIs + Leaflet"
+        data-description="Weatherly is a modern map-based weather application built with HTML, CSS, and JavaScript. Users can search by city, click directly on the map, or use current location to view real-time weather, multi-day forecasts, unit toggling, and live date & time updates."
+        data-tags="HTML, CSS, JavaScript, OpenWeatherMap API, Leaflet.js, OpenStreetMap, LocalStorage"
+        data-live="https://saicharanjanagama.github.io/Weatherly/"
+        data-code="https://github.com/SaiCharanJanagama/Weatherly"
+        data-image="images/weatherly2.png">
+
+        <img src="images/weatherly1.png" alt="Weatherly preview">
+
+        <div class="p-body">
+            <h3>🌦️ Weatherly</h3>
+            <p class="meta">Map Weather • APIs • Forecast</p>
+        </div>
+    </article>
+
+
+    <article class="project card"
+        role="listitem"
+        tabindex="0"
+        data-title="📝 Task Manager App"
+        data-meta="CRUD App with Filters + LocalStorage"
+        data-description="Create, update, delete tasks with filtering and persistent storage using LocalStorage.Clean UI with JavaScript DOM manipulation."
+        data-tags="React.js, Redux, Styled-Components, LocalStorage"
+        data-live="https://saicharanjanagama.github.io/Task-Manager-week7/"
+        data-code="https://github.com/saicharanjanagama/Task-Manager-week7.git"
+        data-image="images/task-manager1.png">
+
+        <img src="images/task-manager2.png" alt="Task Manager preview">
+        <div class="p-body">
+            <h3>📝 Task Manager App</h3>
+            <p class="meta">CRUD + localStorage</p>
+        </div>
+    </article>
 `;
 
 seeMoreBtn.addEventListener("click", () => {
@@ -150,7 +189,7 @@ seeMoreBtn.addEventListener("click", () => {
         seeMoreBtn.textContent = "See More Projects";
         expanded = false;
     }
-});
+}); 
 
 // ===============================
 // 📌 ACTIVE NAVIGATION ON SCROLL
