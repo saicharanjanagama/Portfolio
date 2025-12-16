@@ -139,9 +139,9 @@ const moreProjectsHTML = `
         data-tags="HTML, CSS, JavaScript, OpenWeatherMap API, Leaflet.js, OpenStreetMap, LocalStorage"
         data-live="https://saicharanjanagama.github.io/Weatherly/"
         data-code="https://github.com/SaiCharanJanagama/Weatherly"
-        data-image="images/weatherly2.png">
+        data-image="images/Weatherly2.png">
 
-        <img src="images/weatherly1.png" alt="Weatherly preview">
+        <img src="images/Weatherly1.png" alt="Weatherly preview">
 
         <div class="p-body">
             <h3>🌦️ Weatherly</h3>
