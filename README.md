@@ -62,11 +62,10 @@ Portfolio - Sai Charan/<br>
 │    └── style.css<br>
 │── js/<br>
 │    ├── script.js<br>
-     ├── contactForm.js<br>
+│    └── contactForm.js<br>
 │── images/<br>
 │    └── (project thumbnails, profile image)<br>
 │── README.md
-
 
 ---
 
